@@ -1,6 +1,7 @@
-- 🎓 Estudo na Universidade do Vale Itajaí (UNIVALI) - Ciência da Computação - 5° Semestre 
-- 💼 Trabalho com desenvolvimento de jogos na Silver Games. 
-- 🌱 Aprendendo mais sobre frontend.
+- 🎓 Estudante de Ciência da Computação – Universidade do Vale do Itajaí (UNIVALI) – 6° semestre
+- 💼 Suporte Técnico na EvoTalks
+- 🎮 Experiência anterior em desenvolvimento de jogos na Silver Games
+- 🌱 Atualmente aprendendo e aprimorando meus conhecimentos em frontend
 
 ## Minhas Skills
 
